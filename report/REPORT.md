@@ -5,7 +5,7 @@
 - **Họ tên:** Võ Minh Quân
 - **MSSV:** 2A202602429
 - **Lớp:** Track04
-- **Link repo:** https://github.com/vminhquan/K4-Track4-Day06-VoMinhQuan-2A202602429.git
+- **Link repo:** https://github.com/vminhquan/VoMinhQuan-2A202602429-Track4-Day21.git
 - **Topic:** A — LiDAR-camera projection QA
 - **Dataset:** data/kitti_mini, data/nuscenes_mini_subset, data/synthetic (chỉ để test CP2)
 - **Các frame đã dùng:** kitti_mini: cả 20 frame (000001 … 000061); nuScenes: 20 frame, cứ 4 keyframe lấy 1 (scene-0103_000, _004, …, _036 và scene-1094_000, _004, …, _036); synthetic: 000000
